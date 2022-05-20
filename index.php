@@ -10,6 +10,7 @@
    <body>
       <script src="index.js"></script>
       <table class="table">
+         <caption>Schedule Table</caption>
          <thead>
             <tr>
                <th scope="col">#</th>
