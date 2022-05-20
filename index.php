@@ -6,6 +6,7 @@
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <title>HTML 5 Boilerplate</title>
       <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="./css/bootstrap.css">
    </head>
    <body>
       <script src="index.js"></script>
