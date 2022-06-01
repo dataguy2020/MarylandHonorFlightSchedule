@@ -1,3 +1,3 @@
 # honorFlight
 
-This is a table website to show the schedule
+This is used to show the schedule for Honor Flight BWI
