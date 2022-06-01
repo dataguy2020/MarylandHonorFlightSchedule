@@ -22,7 +22,7 @@
                <th scope="col">Arriving A/P</th>
                <th scope="col">Flight Type</th>
                <th scope="col">Arrival Time</th>
-               <th scope="col"Arrival Carrier/th>
+               <th scope="col">Arrival Carrier/th>
                <th scope="col">Arrival Flight #</th>
                <th scope="col">Arrival Gate</th>
                <th scope="col">Deaprting Date</th>
